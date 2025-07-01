@@ -1,12 +1,12 @@
-<h1 align="left">Hello, I'm Pedro Lucena 👾</h1>
+<h1 align="left">👋 Hello, I'm Pedro Lucena 👋</h1>
 
 ###
 
-<p align="left">Computer Engineer -UFRPE (1/10)</p>
+<h3 align="left">*Computer Engineer -UFRPE (1/10)*</h3>
 
 ###
 
-<h2 align="left">About me </h2>
+<h2 align="left"> *About Me* </h2>
 
 ###
 
@@ -20,7 +20,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 
 ###
 
-<h2 align="left">🔎 Where to find me? 🔎</h2>
+<h2 align="left">🔎 **Where to find me?** 🔎</h2>
 
 ###
 
