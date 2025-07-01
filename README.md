@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">*Computer Engineer -UFRPE (1/10)*</h3>
+<h3 align="left">Computer Engineer -UFRPE (1/10)</h3>
 
 ###
 
-<h2 align="left"> *About Me* </h2>
+<h2 align="left"> <em>About Me</em> </h2>
 
 ###
 
@@ -20,7 +20,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 
 ###
 
-<h2 align="left">🔎 **Where to find me?** 🔎</h2>
+<h2 align="left">🔎 <b>Where to find me?</b> 🔎</h2>
 
 ###
 
