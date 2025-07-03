@@ -68,6 +68,8 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+        <img src="https://skillicons.dev/icons?i=windows" height="40" alt="widows logo" />
+        <img width="12" />
       </div>
     </td>
   </tr>
