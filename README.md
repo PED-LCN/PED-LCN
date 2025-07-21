@@ -43,7 +43,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="left" valign="top" width="50%">
+      <td align="left" valign="top" width="75%">
         <h2>🧰 Languages </h2>
         <div>
           <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
@@ -55,7 +55,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
         </div>
       </td>
-      <td align="left" valign="top" width="50%">
+      <td align="left" valign="top" width="75%">
         <h2>🛠️ Tools </h2>
         <div>
           <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
