@@ -43,7 +43,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="left" valign="top" width="50%">
+      <td align="right" valign="top" width="50%">
         <h2>🧰 Languages </h2>
         <div>
           <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
