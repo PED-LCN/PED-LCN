@@ -40,42 +40,44 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 
 ###
 ##
-<table width="100%">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <h2>🧰 Languages </h2>
-      <div>
-        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-      </div>
-    </td>
-    <td align="left" valign="top" width="50%">
-      <h2>🛠️ Tools </h2>
-      <div>
-        <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-        <img src="https://skillicons.dev/icons?i=windows" height="40" alt="widows logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-        <img width="12" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left" valign="top" width="50%">
+        <h2>🧰 Languages </h2>
+        <div>
+          <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+        </div>
+      </td>
+      <td align="left" valign="top" width="50%">
+        <h2>🛠️ Tools </h2>
+        <div>
+          <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo" />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo" />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+          <img src="https://skillicons.dev/icons?i=windows" height="40" alt="widows logo" />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+          <img width="12" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 ##
