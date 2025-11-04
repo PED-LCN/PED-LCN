@@ -34,7 +34,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
    <a href="https://discord.com/users/345234338830483456" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="discord logo"  />
   </a> 
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/pedroflx_gt/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="instagram logo"  />
   </a> 
   
