@@ -85,6 +85,6 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 ###
 ##
 <p align="center">
-  <img align="left" width="400px" src="![PED-LCN's GitHub Stats](https://readme-stats-github.pages.dev/api?username=PED-LCN)" />
-  <img align="right" width="400px" src="![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=PED-LCN)" />
+  <img align="left" width="400px" src="https://readme-stats-github.pages.dev/api?username=PED-LCN" />
+  <img align="right" width="400px" src="https://readme-stats-github.pages.dev/api/top-langs?username=PED-LCN" />
 </p>
