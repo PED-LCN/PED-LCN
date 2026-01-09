@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Computer Engineer -UFRPE (2/10)</h3>
+<h3 align="left">Computer Engineer -UFRPE (3/10)</h3>
 
 ###
 
