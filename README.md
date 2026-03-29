@@ -110,6 +110,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 ###
 ##
 <p align="center">
-  <img align="leftt" width="400px" src="https://readme-stats-github.pages.dev/api/top-langs?username=PED-LCN" />
-  <img align="right" width="400px" src="https://readme-stats-github.pages.dev/api?username=PED-LCN" />
+  <img align="left" width="400px" src="https://readme-stats-github.pages.dev/api/top-langs?username=PED-LCN" />
+  <img align="center" width="400px" src="https://readme-stats-github.pages.dev/api?username=PED-LCN" />
 </p>
+
