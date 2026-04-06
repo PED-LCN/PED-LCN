@@ -102,7 +102,6 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" height="40"/>
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="40"/>
-          <img width="12" />
         </div>
       </td>
     </tr>
