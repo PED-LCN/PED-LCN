@@ -36,9 +36,6 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
   </a> 
   <a href="https://www.instagram.com/pedroflx_gt/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" width="52" height="40" alt="instagram logo"  />
-  </a> 
-  
-</a> 
 </div>
 
 ###
