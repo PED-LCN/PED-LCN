@@ -26,19 +26,19 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-lucena-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <img width="12" />
   <a href="mailto:ppdro19@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="40" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="40" alt="gmail logo" />
   </a> 
   <img width="12" />
   <a href="https://discord.com/users/345234338830483456" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="50" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" width="50" height="40" alt="discord logo" />
   </a> 
   <img width="12" />
   <a href="https://www.instagram.com/pedroflx_gt/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="40" alt="instagram logo" />
   </a>
 </div>
 
