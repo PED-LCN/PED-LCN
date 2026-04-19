@@ -32,7 +32,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
   <a href="mailto:ppdro19@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" height="40" alt="gmail logo" />
   </a> 
-  <img width="12" />
+  <img />
   <a href="https://discord.com/users/345234338830483456" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="50" height="40" alt="discord logo" />
   </a> 
