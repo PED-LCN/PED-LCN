@@ -58,8 +58,6 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
           <img width="12" />
           <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
           <img width="12" />
-          <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-          <img width="12" />
           <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -105,6 +103,8 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" height="40"/>
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
+          <img width="12" />
         </div>
       </td>
     </tr>
