@@ -20,11 +20,11 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
 
 ###
 
-<h2 align="left">🔎 <b>Where to find me?</b> 🔎</h2>
+<h2 align="center">🔎 <b>Where to find me?</b> 🔎</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pedro-lucena-/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"/>
   </a>
