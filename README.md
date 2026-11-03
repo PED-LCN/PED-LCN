@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Pedro Lucena 👋</h1>
+<h1 align="center">👋 Hello, I'm Pedro Lucena 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left"> <em>About Me</em> </h2>
+<h2 align="center"> <em>About Me</em> </h2>
 
 ###
 
@@ -48,7 +48,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
   <table width="100%">
     <tr>
       <td align="left" valign="top" width="50%">
-        <h2>🧰 Languages </h2>
+        <h2 align="center">🧰 Languages </h2>
         <div>
           <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
           <img width="12" />
@@ -64,7 +64,7 @@ Outside the DEV area I am studying about Networks and starting in Cybersecurity.
         </div>
       </td>
       <td align="left" valign="top" width="50%">
-        <h2>🛠️ Tools </h2>
+        <h2 align="center">🛠️ Tools </h2>
         <div>
           <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
           <img width="12" />
